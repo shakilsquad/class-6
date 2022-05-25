@@ -1,0 +1,151 @@
+
+
+/* body{
+    font-family: 'Cedarville Cursive', cursive;
+font-family: 'Inspiration', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yellowtail', cursive;
+} */
+
+
+
+
+
+
+
+
+h1{
+    background-color: #0b1979;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    text-transform: uppercase;
+    font-style:italic ;
+    margin-bottom: -8px;
+}
+.practic{
+    color: #ebf0f3;
+}
+
+.spaner{
+    color: rgb(243, 240, 240);
+}
+.wevclass{
+    color: #ebf0f3;
+}
+
+}
+.sha{
+    color:#f3f1ed;
+    margin-top: 23px;
+    
+}
+.ra{
+    color:#ca5262;
+}
+.ma{
+    color:#5fb8f1;
+}
+.ha{
+    background-color: #000700;
+}
+.da{
+    color: #fff;
+    background-color: #047504;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+    font-family: 'Yellowtail', cursive;
+    font-size: 21px;
+}
+.caaaa{
+    text-align: center;
+}
+.rana{
+    color: #ebf0f3;
+    background-color: #834646;
+    text-align: center;
+    text-transform:uppercase ;
+    margin-top: -25px;
+    font-family: 'Yellowtail', cursive;
+}
+.nn{
+    text-align: center;
+    background-color: #eeeeee;
+   margin-top: -25px;
+
+}
+.cd{
+    background-color: #297a48;
+    padding: 10px 10px;
+    font-style: oblique;
+    font-weight: 80;
+    font-size: 40px;
+ 
+}
+/* .pxp{
+    text-align: center;
+    background-color: #eeeeee;
+    margin-top: -19px;
+    font-size: small;
+   
+} */
+.banare-section{
+    text-align: center;
+    background-color: #eeeeee;
+    font-size: small;
+    margin: -34px 0px;
+    padding: 10px 10px;
+}
+
+.medum{
+    font-size: 18px;
+}
+
+.nasima form{
+    /* text-align: center; */
+    background-color: #eeeeee;
+    margin-bottom: -40px;
+    /* margin-left: 450px; */
+    text-align: justify;
+    margin: 21px 690px;
+
+}
+
+.shamu{
+    color: #fff;
+    background-color: #4f84c4;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: -30px;
+}
+
+.fotter-section{
+    color: white;
+    background:rgb(12, 12, 12);
+    text-align: center;
+    /* font-weight: 300; */
+    font-size: 30px;
+}
+
+.face-color{
+    color: #0d6efd;
+}
+.botom-section{
+    color: rgb(10, 1, 1);
+    text-align: center;
+    margin-top: -22px;
+    background-color: #0d6efd;
+}
+
+.cojaer{
+    color: #f3f1ed;
+    background-color:#4f84c4; 
+    font-family: 'Yellowtail', cursive;
+}
+.boro{
+    font-weight: 900;
+}
+.sotot{
+    font: size 6px;;
+}
